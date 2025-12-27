@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キューピット参上",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T12:16:23.151559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キューピット参上",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_キューピット参上_Onephony.txt"
+    }
+  ]
+}
